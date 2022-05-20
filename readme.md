@@ -7,7 +7,9 @@ Easily enable and disable enderman griefing.
 ## Commands
 
 `/noendergriefing` - Retrieve the current state of the NoEnderGriefing plugin.
+
 `/noendergriefing enable` - Enable NoEnderGriefing.
+
 `/noendergriefing disable` - Disable NoEnderGriefing.
 
 ## Permissions
