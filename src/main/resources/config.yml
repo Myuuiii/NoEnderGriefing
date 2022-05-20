@@ -1,0 +1,6 @@
+#
+# NoEnderGriefing plugin configuration
+#
+#   You can change enabled to false to allow endermen to pick up blocks again.
+#
+enabled: true

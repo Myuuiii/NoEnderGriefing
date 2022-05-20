@@ -1,0 +1,8 @@
+name: NoEnderGriefing
+version: '${project.version}'
+main: moe.myuuiii.noendergriefing.NoEnderGriefing
+api-version: 1.18
+authors: [ Myuuiii ]
+description: Disables enderman block pickup
+commands:
+  noendergriefing:
