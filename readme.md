@@ -1,8 +1,10 @@
-<div alig="center">
+<div align="center">
 
 # NoEnderGriefing
 
 Easily enable and disable enderman griefing.
+
+</div>
 
 ## Commands
 
@@ -26,5 +28,3 @@ Easily enable and disable enderman griefing.
 #
 enabled: true
 ```
-
-</div>
